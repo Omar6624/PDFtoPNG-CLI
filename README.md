@@ -9,7 +9,6 @@ This project converts all pages of a given PDF file into PNG images and stores t
 
 ## Prerequisites
 - Node.js (v14 or later)
-- (Optional) [Poppler-utils](https://poppler.freedesktop.org/) for CLI-based conversion
 
 ## Setup
 
